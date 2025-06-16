@@ -1,6 +1,6 @@
 # 🎲 Additional Dare Ideas
 
-Use this list for inspiration or to swap out dares in your own Kinktrails hike. Each level includes ~10 example dares that match the mood, playfulness, or intensity of that level. Mix and match based on your boundaries and the kind of adventure you're planning.
+Use this list for inspiration or to swap out dares in your own Kinktrails hike. Each level includes more example dares that match the mood, playfulness, or intensity of that level. Mix and match based on your boundaries and the kind of adventure you're planning.
 
 ---
 
@@ -18,6 +18,13 @@ Light, fun, and creative dares to keep things silly and entertaining on the trai
 - Tell a story using only gestures
 - Make a trail name for the other person
 - Walk backwards for 1 minute
+- Hug! For as long as you want/need!
+- Pretend you’re a tour guide and make up an outrageous story about the trail.
+- Do a dramatic slow-motion walk for 30 seconds.
+- Try to balance a small rock on your head for 1 minute.
+- 10 jumping jacks, squats etc.
+- Pretend to be a statue — freeze for 1 minute.
+- Name five things you love about nature right now.
 
 ---
 
@@ -25,7 +32,7 @@ Light, fun, and creative dares to keep things silly and entertaining on the trai
 
 Still playful but adds a bit of mess and flirtation, especially with chocolate or food-themed dares.
 
-- Lick a dab of chocolate off the other’s finger
+- Lick a dab of chocolate off the other’s finger/hand/arm/body
 - Feed the other person a piece of fruit
 - Draw a shape on someone’s arm in chocolate
 - Pick a new flirtatious nickname for the other person
@@ -34,6 +41,9 @@ Still playful but adds a bit of mess and flirtation, especially with chocolate o
 - Give a compliment... using only fruit metaphors
 - Wear a leaf or flower like an accessory
 - Offer your hand for a surprise sweet treat
+- Truth or Dare! But the dice decide who and what
+- Hold a sexy pose of your partner’s choice for 1 minute.
+- Let your partner kiss a spot you choose
 
 ---
 
