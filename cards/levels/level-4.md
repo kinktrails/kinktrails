@@ -38,7 +38,7 @@ Every 10 minutes during the hike:
 
 ---
 
-### 🧩 Add-On Available
+### 🧩 Optional Add-Ons Available
 
 TBD
 

@@ -22,7 +22,7 @@ Every 10 minutes during the hike:
 
 ---
 
-### 🩱 Add-Ons Available
+### 🩱 Optional Add-Ons Available
 
 - **Single Piece Add-On**  
 - **Reverse Wardrobe Add-On**
