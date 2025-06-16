@@ -78,6 +78,15 @@ Got ideas for other settings (e.g., urban, beach, bedroom)? We welcome community
 
 ---
 
+### 📝 Credit Where It’s Due
+
+Formatting, structure, and markdown polish for this project were done with the help of [ChatGPT](https://openai.com/chatgpt).
+
+All game content, dares, ideas, and creative chaos remain human-made and lovingly twisted.
+
+
+---
+
 ## 🔥 Final Word
 
 You’re not just hiking anymore.  
