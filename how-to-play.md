@@ -57,7 +57,7 @@ You decide how the game flows:
 - Agree on how many **levels** you're open to reaching.
 - Choose which **add-ons** are available to activate during the hike.
 
-> 🎒 Example: If your partner takes more than 8 power cards, maybe *you* get to control when add-ons are activated. Fair's fair.
+🔍 Before you pack, browse the Add-Ons for any extra items you might need. Some Add-Ons have unique requirements — for example, the Single Piece Add-On asks each person to choose one piece of clothing they’d be comfortable hiking in (like a swimsuit).
 
 ---
 
