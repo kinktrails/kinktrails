@@ -8,10 +8,12 @@ Roll two dice to select a dare.
 - If the **reroll is lucky again** → escalate for the person having to do the dare:
 
 **Kink Hike:**  
+
 → Strip
 → Get fully covered in chocolate sauce
 
 **Extreme Kink Hike:**
+
 → Bound spread-eagle on trail  
 → Blindfolded & teased for 5 min  
 → Obey all commands until next roll

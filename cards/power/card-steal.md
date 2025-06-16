@@ -1,5 +1,5 @@
 # 🪄 Card Steal
 
-Play this card to draw a random card from the other person.
+Play this card to draw a random card from your partner.
 
 - Passes after use.

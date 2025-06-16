@@ -1,6 +1,6 @@
 🕳️ PIT STOP — The Trail Becomes Your Playground
 
-The person who enables this add-on picks a spot mid-trail and stage a **Pit Stop**:
+The person who enables this add-on picks a spot mid-trail and stages a **Pit Stop**:
 
 - Your partner strip completely — **no clothing, no gear**
 - You **restrain them spread eagle** to trees or boulders
