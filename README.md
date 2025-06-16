@@ -22,7 +22,7 @@ Kinktrails is a card-based adventure you take on the trail. It includes:
 
 ## 🎒 What's Included
 
-- [cards](card/) – All printable game cards (levels, add-ons, powers, and bonus)
+- [cards](cards) – All printable game cards (levels, add-ons, powers, and bonus)
 - [how-to-play](how-to-play.md) – Simple game instructions and ideas for how to play
 - [boundaries.md](boundaries.md) – A recommended boundary checklist for safe play
 - [printing-guide.md](printing-guide.md) – Tips for printing, laminating, and prepping your cards for real-world hikes
