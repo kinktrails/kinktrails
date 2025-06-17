@@ -1,4 +1,4 @@
-### 🍀 Lucky Number Rolls Add-On
+## 🍀 Lucky Number Rolls Add-On
 
 Each one chooses a different lucky number from 2 to 12.
 Roll two dice to select a dare.

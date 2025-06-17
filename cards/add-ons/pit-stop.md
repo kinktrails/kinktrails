@@ -1,4 +1,4 @@
-🕳️ PIT STOP — The Trail Becomes Your Playground
+## 🕳️ PIT STOP — The Trail Becomes Your Playground
 
 The person who enables this add-on picks a spot mid-trail and stages a **Pit Stop**:
 
