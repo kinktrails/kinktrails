@@ -2,6 +2,13 @@
 
 Thank you for your interest in contributing! Here’s how you can help make Kinktrails better:
 
+## What You Can Contribute
+
+- New power cards, dares, Add-Ons or levels
+- Rule clarifications or improvements
+- Bug fixes or formatting cleanups
+- Suggestions for new settings or add-ons
+
 ## How to Contribute
 
 - Fork the repo and create a new branch for your changes.
@@ -11,7 +18,7 @@ Thank you for your interest in contributing! Here’s how you can help make Kink
 
 ## Issues and Suggestions
 
-- If you find bugs or have ideas, please open an issue with details.
+- If you find bugs or have ideas and don't want to do the PR things, please open an issue with details.
 - Check existing issues first to avoid duplicates.
 
 ## Code and Content Guidelines
