@@ -1,4 +1,5 @@
-## 🎮 Remote Toys & The Lock Add-On — Total Control
+## 🎮 Remote Toys & Lock Add-On
+**Total Control**
 
 Add remote toys and a **lock**. The person who activates this add-on gets full control.
 

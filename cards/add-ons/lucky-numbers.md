@@ -1,4 +1,5 @@
 ## 🍀 Lucky Number Rolls Add-On
+**Open the Trail Lottery**
 
 Each one chooses a different lucky number from 2 to 12.
 Roll two dice to select a dare.

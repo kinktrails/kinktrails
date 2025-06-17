@@ -26,6 +26,7 @@ Every ____ minutes during the hike:
 
 - [ ] **Single Piece Add-On**  
 - [ ] **Reverse Wardrobe Add-On**
+- [ ] **Dare Doubler Add-On**
 
 (✓ = Enabled before hike)
 

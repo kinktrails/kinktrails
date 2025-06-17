@@ -1,6 +1,5 @@
 ## 🍫🍓 Strip & Serve Add-On
-
-*Feeling hungry but forgot a table?*
+**Feeling hungry but forgot a table?**
 
 Who ever activates this add-on gets their partner to become the platter whenever they want.
 

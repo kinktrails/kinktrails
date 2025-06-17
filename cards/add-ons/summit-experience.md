@@ -1,6 +1,5 @@
 ## 🏔️ Summit Add-On
-
-*At the summit, the spotlight turns all the way up!*
+**At the summit, the spotlight turns all the way up!**
 
 Whoever activates this upgrade at any time during the hike gets in control at the summit:
 
