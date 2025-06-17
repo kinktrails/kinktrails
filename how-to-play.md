@@ -47,8 +47,33 @@ There are three main types:
 You decide how the game flows:
 
 - **Timing** – How often do you want a dare? Every 5 minutes? 10? Decide based on trail length and intensity.
+- **Power Cards** - How do you want to play the power cards? Maybe limiting to one card per round of dares - Or go all in and allow activation without limitations and prepare for a quick escalation! 😈
 - **Level Ups & Add-ons** – Level up after a set number of dares, after a specific time, or by dice rolls. Or assign someone the power to decide when it’s time to crank it up or just use the Level-up Power card.
 - **Add-on Activation** – Maybe one player gets the power to enable add-ons or you decide that together. Or maybe the person who rolls a 6 can decide if they want to upgrade... Or you just choose to add the Add-On power card(s)...
+
+### 🎮 Example Game Modes
+
+To help you get started, here are two sample game flows:
+
+#### 🧘‍♀️ The Gentle Ramp-Up
+For couples who want a slow burn and time to enjoy the scenery.
+
+- **Dare Frequency:** Every 10–15 minutes or at scenic/rest points.
+- **Power Cards:** One per round of dares.
+- **Level-Ups:** Occur after 6 dares or every 45 minutes.
+- **Add-ons:** Unlocked only with the Level-Up Power card or by mutual agreement.
+- **Tone:** Playful, sensual, low pressure. Great for first-timers.
+
+---
+
+#### 🔥 Chaos Trail Mode
+For experienced players who want intensity and unpredictability from the start.
+
+- **Dare Frequency:** Every 5 minutes plus at trail landmarks like signs, bridge, lookouts etc.
+- **Power Cards:** No limit. Play any power card at any time.
+- **Level-Ups:** Triggered by dice rolls (e.g. roll a double-6 for instant level up) and using the Level-Up Power cards.
+- **Add-ons:** Can be activated at any time using the Add-Ons Power cards.
+- **Tone:** Fast-paced, kinky, escalating quickly. Strap in.
 
 ---
 
@@ -117,6 +142,14 @@ When an Add-On is activated, the person who triggered it decides who takes on wh
 For example, in the **Strip & Serve Add-On**, one becomes the platter. The activator chooses who.
 
 If the Add-On was triggered by a random event (like a die roll or surprise card), and it's unclear who should take which role, simply **roll a die** to assign roles fairly.
+
+### 🔄 Add-On Trigger Logic
+
+| **Trigger Type**        | **Who Activates?**        | **How to Assign Roles?**                |
+|-------------------------|---------------------------|------------------------------------------|
+| Power Card              | Player who uses it        | That player decides                     |
+| Dice Roll / Random Event| Person who triggered it   | Roll a die to assign roles fairly       |
+| Level-Up                | Auto-activates previous level's Add-Ons | Use die if roles aren't clear          |
 
 ---
 
