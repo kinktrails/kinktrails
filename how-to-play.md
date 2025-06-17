@@ -47,8 +47,8 @@ There are three main types:
 You decide how the game flows:
 
 - **Timing** – How often do you want a dare? Every 5 minutes? 10? Decide based on trail length and intensity.
-- **Level Ups & Add-ons** – Level up after a set number of dares, after a specific time, or by dice rolls. Or assign someone the power to decide when it’s time to crank it up.
-- **Add-on Activation** – Maybe one player gets the power to enable add-ons or you decide that together. Or maybe the person who rolls a 6 can decide if they want to upgrade...
+- **Level Ups & Add-ons** – Level up after a set number of dares, after a specific time, or by dice rolls. Or assign someone the power to decide when it’s time to crank it up or just use the Level-up Power card.
+- **Add-on Activation** – Maybe one player gets the power to enable add-ons or you decide that together. Or maybe the person who rolls a 6 can decide if they want to upgrade... Or you just choose to add the Add-On power card(s)...
 
 ---
 
@@ -110,6 +110,23 @@ Repeat throughout the hike. Don’t forget to:
 - Activate those spicy Add-ons.
 
 > 🔁 **Regular check-ins**: Pause once in a while, maybe even before each dare but definitely for each level-up and ask, “Still good?” Adjust if needed.
+
+### 🔌 Enabling Add-Ons
+
+When an Add-On is activated, the person who triggered it decides who takes on which role — if the Add-On involves specific tasks or actions.  
+For example, in the **Strip & Serve Add-On**, one becomes the platter. The activator chooses who.
+
+If the Add-On was triggered by a random event (like a die roll or surprise card), and it's unclear who should take which role, simply **roll a die** to assign roles fairly.
+
+---
+
+### ↗️ Leveling Up
+
+When you trigger a level up — by any method you’ve chosen — all **Add-Ons from the previous level** activate **immediately**.
+
+Use the same Add-On rule above to determine who takes on which role when the Add-On has one.
+
+> 🔄 **Note:** Leveling up only activates the *previous* level’s Add-Ons. The new level’s Add-Ons stay locked until that they are activated properly.
 
 ---
 
