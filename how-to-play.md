@@ -56,12 +56,12 @@ You decide how the game flows:
 To help you get started, here are two sample game flows:
 
 #### 🧘‍♀️ The Gentle Ramp-Up
-For couples who want a slow burn and time to enjoy the scenery.
+For hikers who want a slow burn and time to enjoy the scenery.
 
 - **Dare Frequency:** Every 10–15 minutes or at scenic/rest points.
-- **Power Cards:** One per round of dares.
+- **Power Cards:** Only a few in play. Maximum one per round of dares.
 - **Level-Ups:** Occur after 6 dares or every 45 minutes.
-- **Add-ons:** Unlocked only with the Level-Up Power card or by mutual agreement.
+- **Add-ons:** Unlocked only by mutual agreement.
 - **Tone:** Playful, sensual, low pressure. Great for first-timers.
 
 ---
@@ -70,7 +70,7 @@ For couples who want a slow burn and time to enjoy the scenery.
 For experienced players who want intensity and unpredictability from the start.
 
 - **Dare Frequency:** Every 5 minutes plus at trail landmarks like signs, bridge, lookouts etc.
-- **Power Cards:** No limit. Play any power card at any time.
+- **Power Cards:** All cards in play. No limit in activation frequency. Play any power card at any time.
 - **Level-Ups:** Triggered by dice rolls (e.g. roll a double-6 for instant level up) and using the Level-Up Power cards.
 - **Add-ons:** Can be activated at any time using the Add-Ons Power cards.
 - **Tone:** Fast-paced, kinky, escalating quickly. Strap in.
