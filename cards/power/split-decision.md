@@ -1,4 +1,4 @@
-### 🎭 Power Card: Split Decision  
+### 🎭 Split Decision  
 **Two dares, two victims — you decide who gets what.**
 
 When it's your partner's turn, roll two dares instead of one.  

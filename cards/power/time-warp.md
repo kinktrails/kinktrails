@@ -1,9 +1,11 @@
-### ⏳ Time Warp
-*the mischievous cousin of a Veto card*
+### ⏳ Time Warp  
+**The mischievous cousin of a Veto card.**
 
-Don’t like the current dare at all? No problem! Just skip it!  
-But there’s a twist… when your turn comes up *next time*, you **have to** tackle a dare rolled from the *next* level instead!  
+Don’t like the current dare? Skip it — easy!  
+But when your turn comes around again, you **must** face a dare from the *next* level.
 
-You don’t level up yet — just face a bigger challenge when you thought you were off the hook.  
+You don’t level up yet — just take a taste of what’s to come.
 
-Once you complete that next-level dare, pass this card to your partner and watch the fun continue!
+Once you complete that next-level dare, **pass this card to your partner** and watch them squirm when they try the same trick.
+
+> *“Dodge now, pay later.”*

@@ -1,4 +1,5 @@
-# 👑 Queen/King of the Trail
+### 👑 Queen/King of the Trail  
+**All the cards. All the power. One ruler.**
 
 You just snatched all cards? Damn, you just put a full-on leash on your partner. Lucky you.
 
