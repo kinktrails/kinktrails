@@ -46,9 +46,9 @@ TBD
 
 ### 🌄 The Summit
 
-- Sunrise photo together  
+- Sunrise photo together — wild, messy, free  
 - End the hike sticky, messy, and laughing — cover each other in leftovers  
-- Final twist: Lock up with a timer lock before taking the photo
+- Final twist: Lock up with a timer lock before taking the photo — surrender symbolized
 
 **Upgrade available** → 
 

@@ -46,9 +46,9 @@ TBD
 
 ### 🌄 The Summit
 
-- Sunrise photo together  
+- Sunrise photo together — wild, messy, free  
 - End the hike sticky, messy, and laughing — cover each other in leftovers  
-- Final twist: Lock up with a timer lock before taking the photo
+- Final twist: Lock up with a timer lock before taking the photo — surrender symbolized
 
 **Upgrade available** → 
 
@@ -65,10 +65,10 @@ One rule: obey. Dares happen anytime, without warning. Total surrender, total co
 
 Upgrading activates:
 
-- Immediate full surrender: no more dice rolls  
+- Immediate full surrender - no more dice rolls  
 - All clothing and cleaning supplies are dropped off — no retrieval until return
 - No cover-up allowed until reaching the same spot again
-- Prepare for multiple, prolonged rounds of intense release and domination
+- Prepare for multiple, prolonged rounds of intense domination
 
 💌 **Want to level up?**  
 Silently hand this card over to upgrade.  

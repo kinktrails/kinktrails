@@ -1,5 +1,24 @@
 ## 🖤 Level 5: Ultimate Surrender Mode
 
+---
+
+## ⚠️ Safety & Consent Reminders for Ultimate Surrender Mode
+
+Level 5 is intense — full surrender and total control. Before diving in, keep these vital guidelines front and center:
+
+- **Clear, enthusiastic consent** from all participants is mandatory — every step of the way.
+- Establish a **safe word or safe signal** that can be used at any time to pause or stop the game immediately, no questions asked.
+- Maintain **ongoing check-ins** whenever possible, even if nonverbal, to ensure comfort and consent.
+- Respect all **physical and emotional boundaries** without exception — surrender doesn’t mean ignoring limits.
+- Have **hydration, snacks, and aftercare supplies** readily available at the summit and end of the hike.
+- Plan for **emergency communication and exit** strategies in case someone needs to leave or receive help quickly.
+- Remember: **Aftercare is essential** — provide space for gentle touch, soothing words, hydration, warmth, and emotional support after the experience.
+- Trust and mutual respect are the foundation. This level is about shared adventure — not pressure or coercion.
+
+---
+
+> *“Ultimate surrender is a gift of trust — handle it with care.”*
+
 ### 🖤 Mixed Ultimate Surrender (One surrenders, the other controls)
 
 > *"Skip the dice. Every sound of the bell means a new task."*

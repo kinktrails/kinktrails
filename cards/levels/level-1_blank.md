@@ -34,7 +34,8 @@ Every ____ minutes during the hike:
 
 ### 🌄 The Summit
 
-Take a **sunrise photo together** to remember the night.  
+Take a **sunrise photo together** to remember the night.
+Bonus points for funny faces!
 
 **Upgrade available** →
 

@@ -18,7 +18,7 @@ Every 10 minutes during the hike:
 3. Share a secret, embarrassing story, or guilty pleasure (bonus if hiking-related)  
 4. Find & describe a weird rock or stick like it's the most amazing thing you've ever seen in your life 
 5. Get decorated by the other with leaves or natural accessories  
-6. Blindfolded object identification  
+6. Blindfolded object identification (touch, smell, taste)
 
 ---
 
@@ -32,7 +32,8 @@ Every 10 minutes during the hike:
 
 ### 🌄 The Summit
 
-Take a **sunrise photo together** to remember the night.  
+Take a **sunrise photo together** to remember the night.
+Bonus points for funny faces!
 
 **Upgrade available** →
 

@@ -34,8 +34,10 @@ Every 10 minutes during the hike:
 
 ### 🌄 The Summit
 
-- Sunrise photo together  
-- Final dare roll - One person becomes the **fruit buffet**, served with chocolate and berries
+- Take a sunrise photo together — bonus points for silly or sweet poses! 
+- Final dare roll - One person becomes the **fruit buffet**, served with chocolate and berries. No hands when eating!
+
+**Note:** This is a fully consensual, playful moment — boundaries and limits apply. Feel free to negotiate or skip any part.
 
 **Upgrade available** →
 

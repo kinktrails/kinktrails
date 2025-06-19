@@ -59,9 +59,9 @@ Every ____ minutes during the hike:
 
 ---
 
-## 🔥 Back: Extreme Mixed Night Hike Dare Game (Optional Level Upgrade)
+## 🔥 Back: Extreme Night Hike Dare Game (Optional Level Upgrade)
 
-Kink without limits — full trust, full surrender, full exposure.  
+Kink without limits — full trust, full exposure.  
 Extreme dares for one or all!
 
 ---
