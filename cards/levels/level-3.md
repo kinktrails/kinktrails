@@ -20,8 +20,8 @@ Every 10 minutes during the hike:
 
 #### Single Die Combos (Normal Tasks)
 
-1. Get one item of clothing is removed by the other person
-2. One item of clothing is handed over
+1. Get one item of clothing removed by the other person while they are blindfolded
+2. 
 3. One item of clothing is left behind on the trail  
 4. Receive touch from the other person for 30 seconds
 5. The other creates a rule + a punishment  
@@ -29,8 +29,8 @@ Every 10 minutes during the hike:
 
 #### Double Die Combos (Intense Variants)
 
-- **1-1** → Item gets removed without hands  
-- **2-2** → Other person chooses what to do with that item  
+- **1-1** → Item gets removed without hands while they are blindfolded
+- **2-2** → 
 - **3-3** → Other person decides where to leave the item  
 - **4-4** → Receive touch while they have their eyes closed  
 - **5-5** → Rule must involve touch, chocolate, or mud (+ you always lose clothing in the punishment)  
