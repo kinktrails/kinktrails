@@ -19,10 +19,10 @@ Start by selecting and downloading the card sets you want to bring:
 
 For best results:
 
-- Use the provided **PDFs** or layout the Markdown-based cards into printable pages (4–6 cards per A4 or US Letter sheet works well).
+- Use the provided **PDFs** or layout the Markdown-based cards into printable pages.
 - Print on **thick paper** or **cardstock** (around 200–250gsm).
-- Use **landscape orientation** if cards are horizontal.
-- Leave enough **margin** around cards for easy cutting.
+- Use **landscape orientation**.
+- Print of both sides of the page if possible while roating on the short sides of the page.
 
 ---
 

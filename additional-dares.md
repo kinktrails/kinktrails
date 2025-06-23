@@ -25,6 +25,7 @@ Light, fun, and creative dares to keep things silly and entertaining on the trai
 - 10 jumping jacks, squats etc.
 - Pretend to be a statue — freeze for 1 minute.
 - Name five things you love about nature right now.
+- Jump into the river/lake
 
 ---
 
