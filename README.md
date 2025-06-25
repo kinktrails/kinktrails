@@ -77,6 +77,7 @@ You are free to remix, adapt, and share the game — but you must give proper cr
 
 Want to add new cards? New rule sets? Power levels? Submit a PR or open an issue!  
 Got ideas for other settings (e.g., urban, beach, bedroom)? We welcome community contributions!
+Provide [Feedback](feedback.md)
 
 ---
 
