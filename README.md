@@ -2,7 +2,7 @@
 
 > *Not your average trail mix.*
 
-Kinktrails is a wilderness-inspired, kink-friendly adventure game designed for daring duos who like their hikes with a twist. It blends outdoor exploration, playful power dynamics, and escalating challenges into an unforgettable experience that starts with cards and ends... however you decide.
+Kinktrails is a wilderness-inspired, kink-friendly adventure game designed for one, two… or a whole pack of adventurous players who like their hikes with a twist. It blends outdoor exploration, playful power dynamics, and escalating challenges into an unforgettable experience that starts with cards and ends... however you decide.
 
 This is an open-source adult card game for couples, partners, and trusted hiking friends who are into flirtation, dares, and a bit (or a lot) of control play.
 
