@@ -10,4 +10,4 @@ Whoever activates this upgrade at any time during the hike gets in control at th
 You’re in full control — watching, guiding, and keeping them safe.
 
 > They expect you to use the opportunity:  
-> Cover them with ingredients, smear chocolate, mess me up with mud — They accept everything.
+> Cover them with ingredients, smear chocolate, mess them up with mud — They accept everything.
