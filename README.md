@@ -20,6 +20,8 @@ Kinktrails is a card-based adventure you take on the trail. It includes:
 - **Optional Power cards** for swapping, stealing, locking clothing states, and more
 - **Optional "Queen/King of the Trail" mode** for full-on surrender
 
+You might be wondering *"Why all the chocolate sauce??"*? Well, it's a placeholder for anything you might want to use! Just replace it with tomato sauce, baked beans, whipped cream or even hot sauce. All up to you! 🌶️
+
 ---
 
 ## 🎒 What's Included
