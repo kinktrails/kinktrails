@@ -18,11 +18,14 @@ Before anything else, have an open and honest chat:
 
 > 🔒 **Consent is the trailhead. Don't skip it. Only continue if you're both ready.**
 
-### ⚖️ Know the Law  
+### ⚖️ Know the Law & Public Etiquette  
 Make sure you understand and respect:
+
 - Local laws around nudity, toys, and public behavior.
 - How private (or public) your trail might be.
 - The potential legal risks of doing kink outdoors.
+- Be mindful of other trail users — avoid busy or family-friendly areas when engaging in nudity, toys, or messy play.
+- Choose secluded spots or less popular times to keep your game private, respectful, and enjoyable for everyone.
 
 > 👮 Stay safe. Know the rules of where you play.
 
