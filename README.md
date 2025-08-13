@@ -1,8 +1,30 @@
 # 🏕️ Kinktrails
 
-> *Not your average trail mix.*
+> *Not your average trail mix.*## ❤️ Safety, Consent & Legal Awaren## 🔧 How to Play
 
-Kinktrails is a wilderness-inspired, kink-friendly adventure game designed for one, two… or as many brave souls as you can fit on the trail. It blends outdoor exploration, playful power dynamics, and escalating challenges into an unforgettable experience that starts with cards and ends... however you decide.
+---
+
+## 🚀 Getting Started
+
+1. **Read the [how-to-play guide](how-to-play.md)** for complete instructions
+2. **Review [boundaries.md](boundaries.md)** with all participants  
+3. **Print your cards** using the [printing guide](printing-guide.md)
+4. **Choose your trail** and pack your gear
+5. **Start hiking** and let the games begin!trails is designed for *enthusiastic, informed consent between all participants*.** It includes elements of kink, control play, nudity, and potentially public settings. Before playing, *all participants must clearly discuss and agree to boundaries*.
+
+> 🔒 **Golden Rule:** Don't play if you're unsure about consent, safety, or respecting others' space.
+
+## 📋 Table of Contents
+
+- [What is Kinktrails?](#-what-is-kinktrails)
+- [What's Included](#-whats-included)
+- [Safety & Consent](#️-safety-consent--legal-awareness)
+- [How to Play](#-how-to-play)
+- [Getting Started](#-getting-started)
+- [License](#-license)
+- [Contributing](#-learn-more--contribute)
+
+---
 
 This open-source adult card game is perfect for couples, adventurous friends, or even solo hikers looking to turn up the heat in the great outdoors. Whether you're teasing yourself through a series of increasingly daring dares, surrendering control to a partner, or putting on a full kink show for a curious crew — Kinktrails adapts to your style.
 
@@ -12,13 +34,15 @@ Hiking alone? No problem. The game fully supports solo play with optional self-s
 
 ## 🌲 What is Kinktrails?
 
-Kinktrails is a card-based adventure you take on the trail. It includes:
+**Kinktrails** is a card-based adventure you take on the trail. It includes:
 
-- **Level cards** with dares escalating in intensity
-- **Upgrade system** that unlocks new levels (and new punishments)
-- **Optional Add-on cards** to add spicy twists like clothing restrictions, control dynamics, or public tension
-- **Optional Power cards** for swapping, stealing, locking clothing states, and more
-- **Optional "Queen/King of the Trail" mode** for full-on surrender
+| Component | Description |
+|-----------|-------------|
+| **Level Cards** | Dares escalating in intensity |
+| **Upgrade System** | Unlocks new levels (and new punishments) |
+| **Add-on Cards** | Spicy twists like clothing restrictions, control dynamics, or public tension |
+| **Power Cards** | For swapping, stealing, locking clothing states, and more |
+| **Queen/King Mode** | Full-on surrender gameplay |
 
 You might be wondering *"Why all the chocolate sauce??"*? Well, it's a placeholder for anything you might want to use! Just replace it with tomato sauce, baked beans, whipped cream or even hot sauce. All up to you! 🌶️
 
@@ -26,11 +50,13 @@ You might be wondering *"Why all the chocolate sauce??"*? Well, it's a placehold
 
 ## 🎒 What's Included
 
-- [cards](cards) – All printable game cards (levels, add-ons, powers, and bonus)
-- [how-to-play](how-to-play.md) – Simple game instructions and ideas for how to play
-- [boundaries](boundaries.md) – A recommended boundary checklist for safe play
-- [printing-guide](printing-guide.md) – Tips for printing, laminating, and prepping your cards for real-world hikes
-- [additional-dares](additional-dares.md) - Example dares to give you some ideas for your personal selection on your hikes
+| File/Folder | Description |
+|-------------|-------------|
+| **[cards/](cards)** | All printable game cards (levels, add-ons, powers, and bonus) |
+| **[how-to-play.md](how-to-play.md)** | Complete game instructions and setup examples |
+| **[boundaries.md](boundaries.md)** | Comprehensive boundary checklist for safe play |
+| **[printing-guide.md](printing-guide.md)** | Tips for printing, laminating, and trail preparation |
+| **[additional-dares.md](additional-dares.md)** | Example dares for custom gameplay |
 
 ---
 

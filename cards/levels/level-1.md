@@ -1,24 +1,31 @@
-## 🟢 Level 1: Non-Kinky Night Hike Dare Game
+# 🟢 Level 1: Non-Kinky Night Hike Dare Game
 
-Just playful and fun! A light-hearted mix of dares to keep us laughing under the stars.
+> *Just playful and fun! A light-hearted mix of dares to keep us laughing under the stars.*
 
 ---
 
-### 🎲 How the Dare Game Works
+## 🎲 How It Works
 
-Every 10 minutes during the hike:
+**Timing:** Every 10 minutes during the hike
 
+**Who Does the Dare:**
 - Roll 1 die:  
   - **Even** → The roller performs the dare  
   - **Odd** → The other person performs the dare  
-- Then roll again to select a dare from the list below:
+- Then roll again to select a dare from the table below:
 
-1. Create a funny walk  
-2. Lights out for 1 minute — try walking without light if you feel safe  
-3. Share a secret, embarrassing story, or guilty pleasure (bonus if hiking-related)  
-4. Find & describe a weird rock or stick like it's the most amazing thing you've ever seen in your life 
-5. Get decorated by the other with leaves or natural accessories  
-6. Blindfolded object identification (touch, smell, taste)
+## 🎯 Dare List
+
+Roll a die to select your dare:
+
+| Roll | Dare |
+|------|------|
+| 1 | Create a funny walk |
+| 2 | Lights out for 1 minute — try walking without light if you feel safe |
+| 3 | Share a secret, embarrassing story, or guilty pleasure (bonus if hiking-related) |
+| 4 | Find & describe a weird rock or stick like it's the most amazing thing you've ever seen |
+| 5 | Get decorated by the other with leaves or natural accessories |
+| 6 | Blindfolded object identification (touch, smell, taste) |
 
 ---
 
@@ -27,6 +34,8 @@ Every 10 minutes during the hike:
 - **Single Piece Add-On**  
 - **Reverse Wardrobe Add-On**
 - **Dare Doubler Add-On**
+- **Photographer's Eye Add-On**
+- **Trail Narrator Add-On**
 
 ---
 

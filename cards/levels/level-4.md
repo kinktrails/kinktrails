@@ -1,54 +1,57 @@
-## 🔥 Level 4: Extreme Mixed Night Hike Dare Game
+# 🔥 Level 4: Extreme Dare Game
 
-Extreme kink dares for one or both. You decide!
-High stakes, full trust — no holding back. Exposure and surrender under the stars.
+> *Extreme kink dares for one or both. You decide! High stakes, full trust — no holding back. Exposure and surrender under the stars.*
 
 ---
 
-### 🎲 How the Dare Game Works
+## 🎲 How It Works
 
-Every 10 minutes during the hike:
+**Timing:** Every 10 minutes during the hike
 
+**Who Does the Dare:**
 - Roll 1 die:  
-  - **Even** → The roller does the dare  
-  - **Odd** → The other person does the dare  
+  - **Even** → The roller performs the dare  
+  - **Odd** → The other person performs the dare  
 - Then roll **2 dice** to select the task
 
----
+## 🎯 Dare List
 
-### 🔥 Extreme Kink Dare List
+### 🔥 Single Die Combos
 
-#### Single Die Combos
+| Roll | Dare |
+|------|------|
+| 1 | Hands locked behind back until next roll |
+| 2 | Hands locked to tree or rock for 5 minutes |
+| 3 | Perform a task of the other person's choosing |
+| 4 | A "gross" ingredient is added to the body |
+| 5 | Give the other person a rule + punishment |
+| 6 | Body becomes a canvas — drawing or writing allowed |
 
-1. Hands locked behind back until next roll
-2. Hands locked to tree or rock for 5 minutes
-3. Perform a task of the other person's choosing
-4. A “gross” ingredient is added to the body
-5. Give the other person a rule + punishment
-6. Body becomes a canvas — drawing or writing allowed
+### 🔥 Double Die Combos
 
-#### Double Die Combos
-
-- **1-1** → Hands locked between legs until next roll 🐧
-- **2-2** → Hands + feet restrained, blindfolded, in a position of the other’s choosing for 5 minutes
-- **3-3** → Must obey all commands until the next roll
-- **4-4** → Covered with messy ingredient
-- **5-5** → Rule + punishment must involve touch and mess
-- **6-6** → Guess what’s drawn — Guesssed wrong? Do another task!
+| Roll | Dare |
+|------|------|
+| **1-1** | Hands locked between legs until next roll 🐧 |
+| **2-2** | Hands + feet restrained, blindfolded, in a position of the other's choosing for 5 minutes |
+| **3-3** | Must obey all commands until the next roll |
+| **4-4** | Covered with messy ingredient |
+| **5-5** | Rule + punishment must involve touch and mess |
+| **6-6** | Guess what's drawn — Guessed wrong? Do another task! |
 
 ---
 
 ### 🧩 Optional Add-Ons Available
 
-TBD
+- **Endurance Test Add-On**
+- **Timer Lock Add-On**
 
 ---
 
 ### 🌄 The Summit
 
-- Sunrise photo together — wild, messy, free  
+- **Sunrise photo together** — wild, messy, free  
 - End the hike sticky, messy, and laughing — cover each other in leftovers  
-- Final twist: Lock up with a timer lock before taking the photo — surrender symbolized
+- **Final twist:** Lock up with a timer lock before taking the photo — surrender symbolized
 
 **Upgrade available** → 
 

@@ -1,6 +1,29 @@
 # 🧭 How to Play Kinktrails
 
-Kinktrails is a daring outdoor game for adventurous hikers who want to mix power play, teasing, and escalating dares into their time on the trail — all with safety, fun, and consent at the core. This guide walks you through how to prepare and play.
+**Kinktrails** is a daring outdoor game for adventurous hikers who want to mix power play, teasing, and escalating dares into their time on the trail — all with safety, fun, and consent at the core.
+
+## 📋 Table of Contents
+
+- [Quick Reference](#-quick-reference)
+- [Set the Foundation](#-1-set-the-foundation)
+- [Build Your Game Setup](#-2-build-your-game-setup)
+- [Choose Levels & Add-ons](#-3-choose-your-levels--add-ons)
+- [Pick Your Trail](#-4-pick-your-trail)
+- [Pack & Prepare](#-5-pack--prepare)
+- [Start Playing](#-6-start-the-hike--let-the-game-begin)
+
+---
+
+## ⚡ Quick Reference
+
+| Component | Purpose | When to Use |
+|-----------|---------|-------------|
+| **Power Cards** | Control game flow, steal cards, swap dares | Throughout the game |
+| **Level Cards** | Escalating dare difficulty (1-5) | Progress through levels |
+| **Add-Ons** | Modify rules (clothing, toys, public play) | When unlocked by levels |
+| **Safeword** | Instantly stop everything | Anytime someone feels unsafe |
+
+**Basic Flow:** Roll dice → Assign dare → Complete dare → Use power cards → Level up → Repeat
 
 ---
 
