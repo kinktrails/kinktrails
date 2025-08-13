@@ -17,7 +17,8 @@ Include as much or as little as you like—stories, ratings, photos (if you want
 
 ## Recent Player Stories
 
-- **Player1**:  
+## **Player1**:  
+
 I decided to take Kinktrails on a solo night adventure, something I'd been curious about for months. Setting out under a canopy of stars, I embraced the full spirit of the game by wearing just my swimsuit — feeling both vulnerable and exhilarated from the very first step.
 
 The night unfolded beautifully. Each dare pushed me gently out of my comfort zone, from silly poses with natural decorations to moments of quiet reflection while hiking blindfolded through safe sections. But the real magic happened at the summit just as dawn was breaking.
@@ -28,7 +29,10 @@ Kinktrails solo isn't just about the dares or the kink elements. It's about disc
 
 Can't wait for my next solo adventure — already planning a different route!
 
-- **Couple_Adventures**:  
+---
+
+## **Couple_Adventures**:  
+
 We set out for what we thought would be a sweet, innocent Level 1 hike — just some laughs and silly photos under the stars. We'd agreed beforehand: "Let's just try vanilla, nothing crazy." Famous last words!
 
 Everything was going perfectly. We were doing funny walks, sharing embarrassing stories, decorating each other with leaves. Then my partner got that mischievous look and played their "High Roller" power card on my innocent dice roll. Suddenly my "create a funny walk" became "create a funny walk while someone draws on your back with chocolate."
@@ -39,6 +43,7 @@ Two hours later, we never made it past the halfway point. We'd escalated through
 
 The best part? Neither of us wanted to admit we'd hoped this would happen all along. Sometimes the best adventures are the ones that get completely out of hand! Already planning our next "vanilla" hike... 😉
 
+---
 ---
 
 We can’t wait to hear from you and keep making Kinktrails an unforgettable adventure for everyone.
