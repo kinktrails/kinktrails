@@ -1,6 +1,6 @@
 # 🏕️ Kinktrails
 
-> *Not your average trail mix.*## ❤️ Safety, Consent & Legal Awaren## 🔧 How to Play
+> *Not your average trail mix.*
 
 ---
 
