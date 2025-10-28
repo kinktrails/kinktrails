@@ -13,6 +13,7 @@ Partner can cash in tokens anytime:
 - 5 tokens = weekend control
 - 10 tokens = full week control
 - 20 tokens = month of unlimited requests
+- 25 tokens = delegate 10 tokens to a friend (also compounding weekly)
 - 50 tokens = 10-hike series at Level 5 (one per week for 10 weeks)
 
 After use, **pass this card to your partner** (but they keep the tokens until cashed in).
